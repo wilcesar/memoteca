@@ -1,3 +1,10 @@
 {
-  "pensamentos": []
+  "pensamentos": [
+    {
+      "conteudo": "Pensamento 2",
+      "autoria": "Wilian",
+      "modelo": "modelo2",
+      "id": 1
+    }
+  ]
 }
