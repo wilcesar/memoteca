@@ -1,0 +1,13 @@
+# Ignora arquivos de banco de dados do json-server
+#db.json
+#*.db.json
+
+# Ignora arquivos de log
+*.log
+
+# Ignora dependências do Node.js
+node_modules/
+
+# Ignora arquivos do sistema
+.DS_Store
+Thumbs.db
