@@ -1,6 +1,6 @@
 # Ignora arquivos de banco de dados do json-server
-#db.json
-#*.db.json
+db.json
+*.db.json
 
 # Ignora arquivos de log
 *.log
