@@ -9,7 +9,7 @@ export class PensamentoComponent implements OnInit {
 
   @Input() pensamento = {
     conteudo: 'I love Angular',
-    autoria: 'Nay',
+    autoria: 'Wilian',
     modelo: 'modelo3'
   }
 
