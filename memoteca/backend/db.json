@@ -11,6 +11,113 @@
       "autoria": "Mestre Yoda",
       "modelo": "modelo3",
       "id": 2
-    }
-  ]
+    },
+    {
+      "conteudo": "A dúvida é o princípio da sabedoria.",
+      "autoria": "Aristóteles",
+      "modelo": "modelo1",
+      "id": 3
+    },
+    {
+      "conteudo": "A persistência é o caminho do êxito.",
+      "autoria": "Charles Chaplin",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Seja a mudança que você quer ver no mundo.",
+      "autoria": "Gandhi",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.",
+      "autoria": "Albert Einstein",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Nossas escolhas revelam quem realmente somos, muito mais do que nossas habilidades.",
+      "autoria": "Alvo Dumbledore",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Você é mais corajoso do que acredita, mais forte do que parece e mais inteligente do que pensa.",
+      "autoria": "Christopher Robin",
+      "modelo": "modelo1",
+      "id": 8
+    },
+    {
+      "conteudo": "Não espere por uma crise para descobrir o que é importante em sua vida.",
+      "autoria": "Platão",
+      "modelo": "modelo3",
+      "id": 9
+    },
+    {
+      "conteudo": "O sucesso nasce do querer, da determinação e persistência.",
+      "autoria": "Napoleon Hill",
+      "modelo": "modelo2",
+      "id": 10
+    },
+    {
+      "conteudo": "Não existe caminho para a felicidade. A felicidade é o caminho.",
+      "autoria": "Thich Nhat Hanh",
+      "modelo": "modelo1",
+      "id": 11
+    },
+    {
+      "conteudo": "O único modo de fazer um excelente trabalho é amar o que você faz.",
+      "autoria": "Steve Jobs",
+      "modelo": "modelo3",
+      "id": 12
+    },
+    {
+      "conteudo": "Sonhe como se fosse viver para sempre, viva como se fosse morrer hoje.",
+      "autoria": "James Dean",
+      "modelo": "modelo2",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "conteudo": "A simplicidade é o último grau de sofisticação.",
+      "autoria": "Leonardo da Vinci",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Liberdade é a possibilidade do isolamento. Se é impossível viver só, você é escravo.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo1",
+      "id": 15
+    },
+    {
+      "conteudo": "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.",
+      "autoria": "Leonardo da Vinci",
+      "modelo": "modelo2",
+      "id": 16
+    },
+    {
+      "conteudo": "Tudo vale a pena se a alma não é pequena.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo3",
+      "id": 17
+    },
+    {
+      "conteudo": "A coragem não é ausência do medo, é a persistência apesar dele.",
+      "autoria": "Nelson Mandela",
+      "modelo": "modelo1",
+      "id": 18
+    },
+    {
+      "conteudo": "Felicidade é saber aproveitar cada instante como se fosse o último.",
+      "autoria": "Wilian",
+      "modelo": "modelo2",
+      "id": 19
+    },
+    {
+      "id": 20,
+      "conteudo": "Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.Quem olha para fora sonha, quem olha para dentro desperta.",
+      "autoria": "Carl Jung",
+      "modelo": "modelo3"
+    }  ]
 }
